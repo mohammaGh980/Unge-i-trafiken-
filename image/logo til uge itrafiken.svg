@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1026.09 356.8">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        font-size: 26px;
+      }
+
+      .cls-7 {
+        font-size: 22px;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-7, .cls-8 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-2 {
+        letter-spacing: .02em;
+      }
+
+      .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        stroke-width: 0px;
+      }
+
+      .cls-10 {
+        fill: #0aa06a;
+      }
+
+      .cls-11 {
+        fill: #80d331;
+      }
+
+      .cls-12 {
+        fill: #0e7c25;
+      }
+
+      .cls-15, .cls-16 {
+        font-size: 21px;
+      }
+
+      .cls-13 {
+        fill: #93d66b;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        fill: #b2ff0b;
+      }
+
+      .cls-16 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: .02em;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-11" x="481.71" y="178.3" width="36" height="32"/>
+    <path class="cls-9" d="m517.21,178.8v31h-35v-31h35m1-1h-37v33h37v-33h0Z"/>
+  </g>
+  <g>
+    <polygon class="cls-14" points="381.71 210.5 381.71 .5 382.83 .5 417.71 35.38 417.71 210.5 381.71 210.5"/>
+    <path class="cls-9" d="m382.63,1l34.58,34.58v174.42h-35V1h.42m.41-1h-1.83v211h37V35.17L383.04,0h0Z"/>
+  </g>
+  <g>
+    <polygon class="cls-13" points="428.71 212.3 428.71 143.3 429.34 143.3 464.71 178.67 464.71 212.3 428.71 212.3"/>
+    <path class="cls-9" d="m429.21,143.88l35,35v32.92h-35v-67.92m.34-1.08h-1.34v70h37v-34.34l-35.66-35.66h0Z"/>
+  </g>
+  <g>
+    <polygon class="cls-12" points="536.71 212.3 536.71 176.67 570.08 143.3 572.71 143.3 572.71 212.3 536.71 212.3"/>
+    <path class="cls-9" d="m572.21,143.8v68h-35v-34.92l33.08-33.08h1.92m1-1h-3.34l-33.66,33.66v36.34h37v-70h0Z"/>
+  </g>
+  <g>
+    <polygon class="cls-10" points="587.71 210.66 587.71 35.53 620.4 .66 621.4 .66 621.4 210.66 587.71 210.66"/>
+    <path class="cls-9" d="m620.9,1.16v209h-32.69V35.72L620.62,1.16h.28m1-1h-1.72l-32.97,35.17v175.83h34.69V.16h0Z"/>
+  </g>
+  <text class="cls-7" transform="translate(429.19 104.01)"><tspan x="0" y="0" xml:space="preserve">UNGE SJÅFØRE              </tspan><tspan x="0" y="26.4" xml:space="preserve"> OG              RUS</tspan></text>
+  <text/>
+  <text class="cls-8" transform="translate(334.21 252.87)"><tspan class="cls-16" x="0" y="0"> </tspan><tspan class="cls-15" x="2.71" y="0">“</tspan><tspan class="cls-6" x="10.14" y="0">en t</tspan><tspan class="cls-5" x="51.72" y="0">r</tspan><tspan class="cls-1" x="60.87" y="0">y</tspan><tspan class="cls-6" x="72.85" y="0">gg </tspan><tspan class="cls-1" x="107.43" y="0">v</tspan><tspan class="cls-3" x="119.68" y="0">ei sta</tspan><tspan class="cls-2" x="175.73" y="0">r</tspan><tspan class="cls-4" x="184.86" y="0">t</tspan><tspan class="cls-6" x="193.31" y="0">er med deg!&quot;</tspan></text>
+  <text/>
+  <text/>
+</svg>

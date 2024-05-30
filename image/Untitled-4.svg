@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 206 122">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0aa06a;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #80d331;
+      }
+
+      .cls-3 {
+        fill: #0e7c25;
+      }
+
+      .cls-4 {
+        fill: #93d66b;
+      }
+
+      .cls-5 {
+        fill: #b2ff0b;
+      }
+
+      .cls-6 {
+        fill: #fcfcfc;
+        font-family: ArialNarrow, Arial;
+        font-size: 17px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="92.79" y="74.8" width="15.57" height="13.88"/>
+  <polygon class="cls-5" points="50.72 0 50.72 88.77 66.29 88.77 66.29 14.8 51.49 0 50.72 0"/>
+  <polygon class="cls-4" points="70.5 60.07 70.5 89.52 86.06 89.52 86.06 75.08 71.06 60.07 70.5 60.07"/>
+  <polygon class="cls-3" points="115.93 74.24 115.93 89.52 131.5 89.52 131.5 60.07 130.09 60.07 115.93 74.24"/>
+  <polygon class="cls-1" points="151.98 .07 151.98 88.83 137.39 88.83 137.39 14.86 151.26 .07 151.98 .07"/>
+  <text class="cls-6" transform="translate(20 112.36)"><tspan x="0" y="0">UNGE SJÅFØRE OG RUS</tspan></text>
+  <text/>
+  <text/>
+  <text/>
+  <text/>
+</svg>

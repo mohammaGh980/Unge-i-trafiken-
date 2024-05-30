@@ -1,0 +1,148 @@
+/* Generelle stiler for hele nettsiden */
+body {
+    background-color: rgb(255, 255, 255); /* Bakgrunnsfarge */
+    font-family: Arial, Helvetica, sans-serif; /* Standard font-familie for teksten */
+  }
+  
+  /* Stiler for toppnavigasjonen */
+.topnav {
+  background-color: #04561b; /* Bakgrunnsfarge */
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1px;
+}
+
+/* Stiler for logoen i toppnavigasjonen */
+.logo {
+  height: 40px;
+  margin-left: auto; /* Plassering til midten */
+  margin-right: auto;
+}
+
+/* Stiler for lenkene i toppnavigasjonen */
+.topnav a {
+  color: #f2f2f2;
+  text-align: center;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  padding: 5px 10px;
+}
+
+/* Plasser hjem-knappen til venstre */
+.topnav a[href="ung.html"]:not(.logo) {
+  margin: left 0;; /* Dette vil dytte hjem-knappen til venstre */
+}
+
+  /* Plasser søkefeltet til høyre */
+  .search {
+    margin-left: auto; /* Dette vil dytte søkefeltet til høyre */
+  margin-top: 7px;
+  }
+
+/* Stiler for hamburgermenyen */
+.openbtn {
+  font-size: 14px;
+  cursor: pointer;
+  background-color: #04561b;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+}
+
+/* Stiler for sidepanelet (hamburgermenyen når den er åpen) */
+.sidepanel {
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  height: 250px;
+  top: 0;
+  right: 0;
+  background-color: #04561b;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidepanel a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 12px;
+  color: #ffffff;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidepanel a:hover {
+  color: #161616;
+}
+
+.sidepanel .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 16px;
+}
+  
+  /* Stiler for overskriftene og teksten */
+
+  h2 {
+    font-size: 16px;
+    color: #030303;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 200px;
+    margin-top: 40px;
+  }
+  
+  h3 {
+    font-size: 14px;
+    color: #030303;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 200px;
+  }
+  
+  p {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #030303;
+    margin-left: 200px;
+    text-align: justify;
+    margin-top: 20px; /* Legg til ønsket avstand over paragrafen */
+  }
+  
+/* Stiler for containeren som inneholder tekst og bilde */
+.content-container {
+    display: flex;
+    flex-wrap: wrap; /* La elementene gå til neste rad hvis de ikke passer på en linje */
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px; /* Juster etter behov */
+    margin: auto; /* Sentrer containeren på siden */
+    padding: 20px; /* Legg til ønsket padding */
+  }
+  
+  /* Stiler for tekstelementene */
+  .text-content {
+    flex: 1; /* Tekstcontainer tar så mye plass som mulig */
+    margin-bottom: 20px; /* Legg til ønsket avstand under teksten */
+  }
+  
+  /* Stiler for bildecontaineren */
+  .image-container {
+    flex-shrink: 0; /* Bildecontaineren skal ikke krympe */
+    width: 50%; /* Juster bredden av bildet etter behov */
+  }
+  
+  /* Stiler for bildet */
+  .image-container img {
+    max-width: 100%; /* Sørger for at bildet ikke overstiger containerens bredde */
+    height: auto;
+    display: block;
+    margin-left: 200px;
+  }
+  
+  

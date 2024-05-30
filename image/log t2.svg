@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1026.09 183.32">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .02em;
+      }
+
+      .cls-2 {
+        fill: #f4f4f4;
+        font-size: 12px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-4 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-3 {
+        font-size: 10.48px;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-5, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        stroke-width: 0px;
+      }
+
+      .cls-7 {
+        fill: #0aa06a;
+      }
+
+      .cls-8 {
+        fill: #80d331;
+      }
+
+      .cls-9 {
+        fill: #0e7c25;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: .03em;
+      }
+
+      .cls-10 {
+        fill: #93d66b;
+      }
+
+      .cls-11 {
+        fill: #b2ff0b;
+      }
+
+      .cls-14 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <rect class="cls-8" x="504.06" y="113.64" width="16.63" height="14.73"/>
+      <path class="cls-5" d="m520.19,114.14v13.73h-15.63v-13.73h15.63m1-1h-17.63v15.73h17.63v-15.73h0Z"/>
+    </g>
+    <g>
+      <polygon class="cls-11" points="456.41 128.46 456.41 28.92 456.57 28.92 473.04 45.38 473.04 128.46 456.41 128.46"/>
+      <path class="cls-5" d="m456.91,29.96l15.63,15.63v82.37h-15.63V29.96m-.13-1.54h-.87v100.55h17.63V45.18l-16.76-16.76h0Z"/>
+    </g>
+    <g>
+      <polygon class="cls-10" points="478.8 129.32 478.8 97.03 495.44 113.66 495.44 129.32 478.8 129.32"/>
+      <path class="cls-5" d="m479.3,98.24l15.63,15.63v14.95h-15.63v-30.58m-.36-1.78h-.64v33.36h17.63v-16.36l-16.99-16.99h0Z"/>
+    </g>
+    <g>
+      <polygon class="cls-9" points="530.27 129.32 530.27 112.71 546.02 96.96 546.9 96.96 546.9 129.32 530.27 129.32"/>
+      <path class="cls-5" d="m546.4,97.46v31.36h-15.63v-15.9l15.46-15.46h.18m1-1h-1.59l-16.04,16.04v17.32h17.63v-33.36h0Z"/>
+    </g>
+    <g>
+      <polygon class="cls-7" points="554.57 128.54 554.57 45.45 570 28.99 570.1 28.99 570.1 128.54 554.57 128.54"/>
+      <path class="cls-5" d="m569.6,30.15v97.89h-14.53V45.65l14.53-15.5m1-1.66h-.82l-15.71,16.76v83.79h16.53V28.49h0Z"/>
+    </g>
+    <text class="cls-3" transform="translate(478.77 77.98)"><tspan x="0" y="0" xml:space="preserve">UNGE SJÅFØRE              </tspan><tspan x="0" y="12.58" xml:space="preserve"> OG              RUS</tspan></text>
+  </g>
+  <text/>
+  <text class="cls-2" transform="translate(434.98 148.98)"><tspan class="cls-6" x="0" y="0"> </tspan><tspan class="cls-4" x="1.55" y="0">“</tspan><tspan x="5.02" y="0">en t</tspan><tspan class="cls-13" x="24.2" y="0">r</tspan><tspan class="cls-14" x="28.43" y="0">y</tspan><tspan x="33.96" y="0">gg </tspan><tspan class="cls-14" x="49.92" y="0">v</tspan><tspan x="55.57" y="0">ei sta</tspan><tspan class="cls-1" x="81.44" y="0">r</tspan><tspan class="cls-12" x="85.66" y="0">t</tspan><tspan x="89.55" y="0">er med deg!&quot;</tspan></text>
+  <text/>
+  <text/>
+</svg>

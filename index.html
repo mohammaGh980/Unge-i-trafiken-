@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/unge.css">
+  <title> Unge sjåfører og rus </title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
+  <!-- Load an icon library to show a hamburger menu (bars) on small screens -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+  <div class="topnav">
+    <a href="index.html"><img src="image/Untitled-5.svg" alt="Logo" class="logo"></a>
+    <div class="search">
+      <input type="text" id="searchInput" placeholder="søk" oninput="searchDocuments()">
+      <!-- søkeresultatene vises mens du skriver -->
+      <div id="searchResult"></div>
+  </div>
+
+  <!-- Dokumenter man skal søke på -->
+  <div id="documents" style="display: none;">
+      <a href="informasjon.html">Informasjon om konsekvensene</a>
+      <a href="rådogveilednig.html">Råd og veiledning</a>
+      <a href="hjelpetilbud.html">Hjelpetilbud</a>
+      <a href="erfaringdeling.html">Erfaringsdeling</a>
+      <a href="kontaktoss.html">Kontakt oss</a>
+  </div>
+    <div id="searchResults"></div>
+    <div id="mySidepanel" class="sidepanel">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+      <a href="informasjon.html">Informasjon om konsekvensene</a>
+      <a href="rådogveilednig.html"> Råd og veilednin</a>
+      <a href="hjelpetilbud.html">hjelpetilbud</a>
+      <a href="erfaringdeling.html">Erfaringsdeling</a>
+      <a href="kontaktoss.html">Kontakt oss</a>
+    </div>
+    <button class="openbtn" onclick="openNav()">☰ Meny</button>
+  </div>
+
+
+  <div class="content-container">
+    <div class="text-content">
+      <h1>Unge sjåfører og rus</h1>
+      <h2> Velkommen til nettsiden vår om ungdomstrafikk og sikkerhet på veiene!</h2>
+      <div class="image-container">
+        <img src="image/heimbakgrun.png" alt="Bildebeskrivelse">
+      </div>
+      <p>Her lærer du hvor viktig det er å kjøre trygt og ansvarlig, spesielt når det gjelder å unngå å kjøre når man er
+        påvirket av rus. Vi forteller deg om de forskjellige konsekvensene av å kjøre i rus, både for deg selv og andre
+        på veien.</p>
+      <p>
+        Velkommen til nettsiden vår om ungdomstrafikk og sikkerhet på veiene!
+
+        Her lærer du hvor viktig det er å kjøre trygt og ansvarlig, spesielt når det gjelder å unngå å kjøre når man er
+        påvirket av rus. Vi forteller deg om de forskjellige konsekvensene av å kjøre i rus, både for deg selv og andre
+        på veien.
+
+        Vi gir også råd om hvordan du kan unngå å kjøre i rus, og hvordan du kan si nei til å kjøre når du ikke er i
+        stand til det. Du får høre historier fra andre ungdommer som har klart å endre måten de oppfører seg på og ta
+        ansvar for egen sikkerhet på veiene.</p>
+      <p>På nettsiden vår finner du også informasjon om hjelpetilbud for ungdom som sliter med rusproblemer, og hvordan
+        du kan få støtte for å takle rusproblemer og endre atferden din.</p>
+
+    </div>
+
+</body>
+<script src="script.js"></script>
+
+</html>
